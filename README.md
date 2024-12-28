@@ -1,5 +1,5 @@
-# Hi, I’m Ahmad Riski Fauzi 👋
-Undergraduate highschool student in SMK Wahidin, Cirebon. Curently learn about Website Development, and also have interest to learn about another technologies. I have been know coding since more than two years ago, but still beginner in programming because of my inconsistency 🔰. 
+# Hi, I’m  👋
+
 
 # My skills
 * Python
@@ -16,7 +16,7 @@ AhmRsfz/AhmRsfz is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is   Ahmad Riski Fauzi and I'm an undergraduate highschool student in SMK Wahidin, Cirebon. Curently learn about Website Development, and also have interest to learn about another technologies</h2>
 
 ###
 
