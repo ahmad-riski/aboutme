@@ -67,7 +67,7 @@
   
           
           
-o
+
 ###
 
 <h3 align="left">My Wife ❤‍🩹</h3>
@@ -75,7 +75,7 @@ o
 ###
 
 <div align="center">
-  <img src="https://s3.zerochan.net/240/38/34/3486738.avif"/>
+  <img src="https://s3.zerochan.net/240/38/34/3486738.avif" style="border-radius: 2em;"/>
 </div>
 
 ###
