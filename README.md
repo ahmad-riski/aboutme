@@ -23,10 +23,11 @@
 
 ###
 
-<p align="left">I'm Ahmad Riski Fauzi from Indonesia<br>
-  - 🔭 I like to build website and draw
-  - 📚 I'm currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" height="10" alt="solid logo"/>
-  - ⚡ In my free time I usually code</p>
+<h1>I'm Ahmad Riski Fauzi from Indonesia</h1>
+
+<p>🔭 I like to build website and draw</p>
+<p>📚 I'm currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" height="20" alt="solid logo"/></p>
+<p>⚡ In my free time I usually code</p>
 
 ###
 
