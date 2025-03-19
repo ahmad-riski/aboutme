@@ -24,9 +24,9 @@
 ###
 
 <p align="left">I'm Ahmad Riski Fauzi from Indonesia<br>
-  <br>- 🔭 I like to build website and draw
-  <br>- 📚 I'm currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" height="40" alt="solid logo"/>
-  <br>- ⚡ In my free time I usually code</p>
+  - 🔭 I like to build website and draw
+  - 📚 I'm currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" height="10" alt="solid logo"/>
+  - ⚡ In my free time I usually code</p>
 
 ###
 
@@ -41,7 +41,7 @@
 ">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" height="40" alt="solid logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="40" alt="pnpm logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="node logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo"/>
 </div>
 
