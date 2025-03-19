@@ -1,7 +1,3 @@
-<!--![image](https://github.com/user-attachments/assets/fc14b322-36f0-42e8-90cb-57e97f17716b)<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  /> -->
-</div>
-
 ###
 
 <div align="center">
@@ -27,11 +23,14 @@
 
 ###
 
-<p align="left">I'm Ahmad Riski Fauzi from Indonesia<br><br>- 🔭 I’m a fullstack web developer and fullstack game developer<br>- 📚 I'm currently learning golang and javascript's ecosystem<br>- ⚡ In my free time I usually code</p>
+<p align="left">I'm Ahmad Riski Fauzi from Indonesia<br>
+  <br>- 🔭 I like to build website and draw
+  <br>- 📚 I'm currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" height="40" alt="solid logo"/>
+  <br>- ⚡ In my free time I usually code</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tools</h3>
 
 ###
 
@@ -39,31 +38,12 @@
 <div align="left" style="
   display: flex;
   gap: 50px;
-  ">
-  
+">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" height="40" alt="solid logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="40" alt="pnpm logo"/>
-          
-
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node logo"  />
-          
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo"/>
-
-
-
-
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"/>
-          
-
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-
+</div>
 
 
   
