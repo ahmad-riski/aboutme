@@ -27,7 +27,7 @@
   <h3>I'm Ahmad Riski Fauzi from Indonesia</h3>
   
   <p>🔭 I like to build website and draw</p>
-  <p>📚 I'm currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="20" alt="solid logo"/></p>
+  <p>📚 I'm currently learning laravel</p>
   <p>⚡ In my free time I usually code</p>
 </div>
 
