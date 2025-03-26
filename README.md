@@ -27,7 +27,7 @@
   <h3>I'm Ahmad Riski Fauzi from Indonesia</h3>
   
   <p>🔭 I like to build website and draw</p>
-  <p>📚 I'm currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" height="20" alt="solid logo"/></p>
+  <p>📚 I'm currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="20" alt="solid logo"/></p>
   <p>⚡ In my free time I usually code</p>
 </div>
 
@@ -42,7 +42,11 @@
   display: flex;
   gap: 50px;
 ">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" height="40" alt="solid logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="40" alt="solid logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="solid logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="solid logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="solid logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" height="40" alt="solid logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="40" alt="pnpm logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="node logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo"/>
